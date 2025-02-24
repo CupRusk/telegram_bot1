@@ -1,6 +1,6 @@
 import telebot
 
-bot = telebot.TeleBot('7691146935:AAETEjwWIxON4LdPn0jCLzEYVIJj9CkGTb0')
+bot = telebot.TeleBot('762291146935:AAETEjwWIxON4LdPn0jCLzEYVIJj9CkGTb0')
 
 # Словарь с вопросами и переходами
 questions = {
